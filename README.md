@@ -10,10 +10,6 @@ The objective is to analyze customer shopping behavior using Python and SQL, and
 
 ## Dataset
 
-Source: (Add dataset source if applicable)
-
-Format: CSV
-
 Description:
 The dataset contains customer shopping behavior data, including purchase patterns, frequency, and spending behavior, used to identify trends and generate actionable business insights.
 
@@ -46,7 +42,7 @@ Loaded raw CSV data into Python
 
 Performed exploratory data analysis (EDA)
 
-Identified trends, distributions, and anomalies
+Identified trends and distributions
 
 ### 2. Data Cleaning
 
@@ -60,7 +56,7 @@ Prepared data for database ingestion
 
 Connected Python to an SQL database
 
-Loaded cleaned data into relational tables
+Loaded cleaned data into a relational table
 
 ### 4. SQL Analysis
 
