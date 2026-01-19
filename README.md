@@ -90,7 +90,6 @@ Purchasing trends and patterns
 
 Interactive filters for segmentation and drill-downs
 
-## Optional: Add screenshots or a published Power BI Service link.
 
 ## Results & Insights
 
